@@ -1,24 +1,58 @@
-# Analise_Vendas_XBOX
-Dashboard em Excel - Análise de Vendas de Jogos do XBOX
+Dashboard de Análise de Vendas - XBOX (Excel)
+Este repositório contém um projeto de Business Intelligence focado na análise de vendas de jogos e assinaturas da plataforma XBOX, desenvolvido inteiramente em Microsoft Excel.
 
-O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. 
-O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz 
-desempenho de vendas e a tomada de decisões baseadas em dados.
+🎯 Objetivo central deste projeto é demonstrar a capacidade de transformar dados brutos em insights acionáveis. Através da organização de dados, criação de cálculos e uso de tabelas dinâmicas, foi desenvolvido um dashboard interativo que permite:
 
+Visualizar o desempenho de vendas de forma clara e concisa.
 
-Nesse projeto foi utilizado uma base de dados com uma amostra dos dados de vendas de alguns jogos e planos do XBOX.
+Analisar métricas chave de faturamento e assinaturas.
 
-Em um arquivo do Excel foi utilizado 4 planilhas para oraganização e criação do DASHBORD.
+Facilitar a tomada de decisões estratégicas baseada em dados.
 
-Planilha 1: Assets - onde foram guardados os códigos hexadecimal para paleta das cores, as logos e ícones utilizados no projeto.
-Planilha 2: Bases - Local onde está a toda a base de dados utilizadas no projeto.
-Planilha 3: Cálculos - Planilha onde foram feitos os cálculos e tabelas dinámicas para criação do Dasboard.
-Planilha 4: Dashboard - Aqui é onde o Dasboard de vendas foi rdesenvolvidos, utilizando as planilhas anteriores como base.
+🛠️ Ferramentas Utilizadas
+Microsoft Excel:
 
-O projeto consite em responder as seguintes perguntas de negócio:
+Fórmulas e Funções
 
-Pergunta 1: Qual faturamento Total de vendas de planos anuais ( contendo todas as assinaturas agregadas)?			
-Pergunta 2: Qual faturamento Total de vendas de planos anuais, separados oir auto renovação e sem auto renovação?
-Pergunta 3: Total de vendas de assinaturas do EAplay ?
-Pergunta 4: Total de assinatura do Minecraft Season Pass?
+Tabelas Dinâmicas
+
+Criação de Gráficos e Visualização de Dados
+
+Segmentação de Dados (Slicers)
+
+📂 Estrutura do Arquivo Excel
+O projeto foi consolidado em um único arquivo .xlsx, organizado em quatro planilhas distintas para garantir clareza e manutenibilidade:
+
+Assets:
+
+Planilha dedicada ao design e à identidade visual.
+
+Armazena a paleta de cores (códigos hexadecimais), logos e ícones utilizados no dashboard.
+
+Bases:
+
+Contém a base de dados bruta (amostra) com todas as transações de vendas de jogos e planos do XBOX.
+
+Cálculos:
+
+O "back-end" do projeto.
+
+Nesta planilha são realizadas todas as análises, cálculos intermediários e a estruturação das Tabelas Dinâmicas que servem como fonte para os gráficos do dashboard.
+
+Dashboard:
+
+A interface visual final do projeto ("front-end").
+
+Reúne todos os gráficos, cartões (KPIs) e segmentações de dados de forma interativa, utilizando as informações tratadas na planilha "Cálculos".
+
+❓ Perguntas de Negócio (KPIs)
+O dashboard foi construído para responder às seguintes perguntas de negócio essenciais:
+
+Qual o faturamento total de vendas de planos anuais (considerando todas as assinaturas agregadas)?
+
+Qual o faturamento total de vendas de planos anuais, segmentado por status de "Auto Renovação" (Ativa vs. Inativa)?
+
+Qual o total de vendas (faturamento) específico das assinaturas do EA Play?
+
+Qual o total de vendas (faturamento) específico das assinaturas do Minecraft Season Pass?
 
