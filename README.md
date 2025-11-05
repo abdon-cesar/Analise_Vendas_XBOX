@@ -1,3 +1,4 @@
+<img width="108" height="112" alt="image" src="https://github.com/user-attachments/assets/2a96143c-fc70-4e55-a593-6aaac222e787" />
 Dashboard de Análise de Vendas - XBOX (Excel)
 Este repositório contém um projeto de Business Intelligence focado na análise de vendas de jogos e assinaturas da plataforma XBOX, desenvolvido inteiramente em Microsoft Excel.
 
